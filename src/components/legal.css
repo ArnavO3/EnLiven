@@ -1,0 +1,20 @@
+.nav-btn {
+  background-color: rgb(255, 231, 15) !important;
+}
+
+.latestAns {
+  box-shadow: 10px 10px 15px -10px black;
+}
+
+.cardBtn1{
+  display: grid;
+  grid-template-columns: 1 1 1;
+}
+
+.img-cardBtn1 {
+  filter: brightness(50%);
+}
+
+.button-card1 {
+  background-color: rgb(255, 231, 15) !important;
+}
